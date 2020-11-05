@@ -2,6 +2,9 @@
 
 A fingerprint attendance management system, does payroll, tax, leave managment, etc
 
+Programming language: Java
+Framework: JavaFX
+
 ## Contact for source code, further development or customisation
 
 E-mail: info@piuniversal.com, mjadarko@gmail.com
@@ -9,12 +12,12 @@ Phone/WhatsApp: +233553567136
 
 ## Screenshots
 
-![Alt text](shots/sky.png)
+![Alt text](sky.PNG)
 
-![Alt text](shots/sky2.png)
+![Alt text](sky2.PNG)
 
-![Alt text](shots/sky3.png)
+![Alt text](sky3.PNG)
 
-![Alt text](shots/sky4.png)
+![Alt text](sky4.PNG)
 
-![Alt text](shots/sky5.png)
+![Alt text](sky5.PNG)
